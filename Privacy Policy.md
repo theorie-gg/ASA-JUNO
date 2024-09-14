@@ -1,7 +1,6 @@
 # JUNO's Privacy Policy
-## Last Updated on 2024-08-21
 ### Introduction
-This privacy policy was written for JUNO, a bot coded by @theorie on Discord with the intent to help players of ARK: Survival Ascended organize and streamline their tribe's breeding and claiming process. This bot was designed with a PVP megatribe environment in mind but is not limited to this use. Throughout this document, JUNO may be referred to as "the bot". The intent of this policy is to clarify what data JUNO collects, how the data is used, and what your rights are to your own data.
+This privacy policy was written for JUNO, a bot coded by @theorie on Discord with the intent to help players of ARK: Survival Ascended organize and streamline their tribe's breeding and claiming process. It was designed with a PVP megatribe environment in mind but is not limited to this use. Throughout this document, JUNO may be referred to as "the bot". This policy intends to clarify what data JUNO collects, how the data is used, and what your rights are to your data.
 ### What Information Does JUNO Store?
 * Guild/Discord server IDs
 * Channel IDs
@@ -27,4 +26,6 @@ Due to JUNO's intended use, it is necessary to store this data to meet the promi
 ### Is My Data Shared With Any Third Parties?
 No, none of the data that is stored via JUNO is shared with any third parties whatsoever. All information is confidential and available to your guild only.
 ### How Can I Have My Tribe's Data Deleted?
-Users can request the removal of data associated with their guild by contacting @theorie via Discord. For security reasons, anyone requesting this must prove they are the owner of the tribe's guild. If JUNO is still present, it will be removed from the server in order to complete this request.
+Users can request the removal of data associated with their guild by contacting @theorie via Discord. For security reasons, anyone requesting this must prove they are the owner of the tribe's guild. If JUNO is still present, it will be removed from the server to complete this request.
+
+### Last Updated on 2024-09-14
