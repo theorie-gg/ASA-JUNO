@@ -21,10 +21,7 @@ Due to JUNO's intended use, it is necessary to store this data to meet the promi
 * Guild IDs are stored for configuration settings; the primary intent is to keep all guilds and their data separate.
 * Channel IDs are stored for configuration settings, including which channels the bot sends specific data to (such as transcript logs), and thread ticket functions. 
 * Role IDs are stored for configuration settings, including permissions checks, moderation, and thread ticket functions. 
-* Member IDs are stored for:
- * Temporary ticket reminders;
- * Functions to temporarily add and remove a role from a user;
- * To identify which tribe member breeds what dinosaur - IF it is formatted in that way.
+* Member IDs are stored for: temporary ticket reminders; functions to temporarily add and remove a role from a user; to identify which tribe member breeds what dinosaur. (IF it is formatted in that way by the bot user.)
 
 ## Is My Data Shared With Any Third Parties?
 No, none of the data that is stored via JUNO is shared with any third parties whatsoever. All information is confidential and available to your guild only.
