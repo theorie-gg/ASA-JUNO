@@ -15,13 +15,13 @@ Storing this data is essential to the functions JUNO offers, though some of thes
 * Messages sent in any guild in any channel by any user.
 * Transcripts for any thread ticket, which is delegated to your tribe's guild.
 * Anything else not explicitly listed as above.
-### Why Is This Data Necessary?
+## Why Is This Data Necessary?
 Due to JUNO's intended use, it is necessary to store this data to meet the promise of these functions.
 
 * Guild IDs are stored for configuration settings - the primary intent is to keep all guilds and their data separate.
 * Channel IDs are stored for configuration settings, including commands and thread ticket functions. 
 * Role IDs are stored for configuration settings, including permissions checks, moderation, and thread ticket functions. 
-* Member IDs are only used to identify which tribe member breeds what dinosaur. This information is used only in the dinosaur database and the ticket system.
+* Member IDs are temporarily stored for ticket reminders, functions to temporarily add and remove a role from a user, and to identify which tribe member breeds what dinosaur - IF it is formatted in that way. This information is used only in the dinosaur database and the ticket system.
 
 ## Is My Data Shared With Any Third Parties?
 No, none of the data that is stored via JUNO is shared with any third parties whatsoever. All information is confidential and available to your guild only.
